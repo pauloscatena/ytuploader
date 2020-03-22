@@ -39,6 +39,14 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Google.Apis": {
+              "target": "Package",
+              "version": "[1.44.1, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.44.1, )"
+            },
             "Google.Apis.Oauth2.v2": {
               "target": "Package",
               "version": "[1.44.1.1869, )"

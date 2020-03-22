@@ -9,6 +9,8 @@
     ".NETStandard,Version=v2.0/": {
       "YTUploader/1.0.0": {
         "dependencies": {
+          "Google.Apis": "1.44.1",
+          "Google.Apis.Auth": "1.44.1",
           "Google.Apis.Oauth2.v2": "1.44.1.1869",
           "Google.Apis.YouTube.v3": "1.44.1.1869",
           "NETStandard.Library": "2.0.3"
