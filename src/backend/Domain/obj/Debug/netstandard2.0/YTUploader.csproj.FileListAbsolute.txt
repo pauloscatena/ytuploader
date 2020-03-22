@@ -1,0 +1,8 @@
+/home/paulo/projetos/YTUploader/src/backend/Domain/bin/Debug/netstandard2.0/YTUploader.deps.json
+/home/paulo/projetos/YTUploader/src/backend/Domain/bin/Debug/netstandard2.0/YTUploader.dll
+/home/paulo/projetos/YTUploader/src/backend/Domain/bin/Debug/netstandard2.0/YTUploader.pdb
+/home/paulo/projetos/YTUploader/src/backend/Domain/obj/Debug/netstandard2.0/YTUploader.csprojAssemblyReference.cache
+/home/paulo/projetos/YTUploader/src/backend/Domain/obj/Debug/netstandard2.0/YTUploader.AssemblyInfoInputs.cache
+/home/paulo/projetos/YTUploader/src/backend/Domain/obj/Debug/netstandard2.0/YTUploader.AssemblyInfo.cs
+/home/paulo/projetos/YTUploader/src/backend/Domain/obj/Debug/netstandard2.0/YTUploader.dll
+/home/paulo/projetos/YTUploader/src/backend/Domain/obj/Debug/netstandard2.0/YTUploader.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Oauth2.v2" Version="1.44.1.1869" />
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.44.1.1869" />
+  </ItemGroup>
+
+</Project>
