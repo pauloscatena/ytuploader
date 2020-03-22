@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/paulo/projetos/YTUploader/src/tests/YTUploader.Tests/YTUploader.Tests.csproj": {}
+    "/home/paulo/projetos/YtUploader.Git/ytuploader/src/tests/YTUploader.Tests/YTUploader.Tests.csproj": {}
   },
   "projects": {
-    "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj": {
+    "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj",
+        "projectUniqueName": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj",
         "projectName": "YTUploader",
-        "projectPath": "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj",
+        "projectPath": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj",
         "packagesPath": "/home/paulo/.nuget/packages/",
-        "outputPath": "/home/paulo/projetos/YTUploader/src/backend/Domain/obj/",
+        "outputPath": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "/home/paulo/projetos/YTUploader/src/tests/YTUploader.Tests/YTUploader.Tests.csproj": {
+    "/home/paulo/projetos/YtUploader.Git/ytuploader/src/tests/YTUploader.Tests/YTUploader.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulo/projetos/YTUploader/src/tests/YTUploader.Tests/YTUploader.Tests.csproj",
+        "projectUniqueName": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/tests/YTUploader.Tests/YTUploader.Tests.csproj",
         "projectName": "YTUploader.Tests",
-        "projectPath": "/home/paulo/projetos/YTUploader/src/tests/YTUploader.Tests/YTUploader.Tests.csproj",
+        "projectPath": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/tests/YTUploader.Tests/YTUploader.Tests.csproj",
         "packagesPath": "/home/paulo/.nuget/packages/",
-        "outputPath": "/home/paulo/projetos/YTUploader/src/tests/YTUploader.Tests/obj/",
+        "outputPath": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/tests/YTUploader.Tests/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -92,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj": {
-                "projectPath": "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj"
+              "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj": {
+                "projectPath": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj"
               }
             }
           }

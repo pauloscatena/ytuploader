@@ -16,6 +16,9 @@ namespace YTUploader
     {
         private string _videoId;
         public bool Pronto { get; set; }    
+
+        public string VideoId => _videoId;
+
         public async Task Upload(VideoDto dados)
         {
             UserCredential credential;

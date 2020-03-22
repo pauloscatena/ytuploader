@@ -1,4 +1,5 @@
 using System;
+using System.Threading.Tasks;
 using Xunit;
 using YTUploader;
 using YTUploader.Dto;
@@ -8,7 +9,7 @@ namespace YTUploader.Tests
     public class YTUpYTest
     {
         [Fact]
-        public void Teste_DeveEnviarVideoContaTeste()
+        public async Task Teste_DeveEnviarVideoContaTeste()
         {
             Console.WriteLine("Inicio do teste");
             VideoDto dados = new VideoDto()
@@ -22,10 +23,11 @@ namespace YTUploader.Tests
             Console.WriteLine(dados);
 
             var videoUploader = new YTWrapper();
-            videoUploader.Upload(dados);
+            await videoUploader.Upload(dados);
             Console.WriteLine(videoUploader.Pronto);
 
             Assert.True(videoUploader.Pronto);
+            Assert.NotEqual(string.Empty, videoUploader.VideoId);
         }
     }
 }

@@ -9,4 +9,7 @@
     <PackageReference Include="Google.Apis.YouTube.v3" Version="1.44.1.1869" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="client_secrets.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
 </Project>

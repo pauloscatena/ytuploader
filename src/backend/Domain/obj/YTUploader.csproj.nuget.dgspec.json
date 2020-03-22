@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj": {}
+    "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj": {}
   },
   "projects": {
-    "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj": {
+    "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj",
+        "projectUniqueName": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj",
         "projectName": "YTUploader",
-        "projectPath": "/home/paulo/projetos/YTUploader/src/backend/Domain/YTUploader.csproj",
+        "projectPath": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/YTUploader.csproj",
         "packagesPath": "/home/paulo/.nuget/packages/",
-        "outputPath": "/home/paulo/projetos/YTUploader/src/backend/Domain/obj/",
+        "outputPath": "/home/paulo/projetos/YtUploader.Git/ytuploader/src/backend/Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
