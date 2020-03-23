@@ -11,7 +11,7 @@ namespace YTUploader.Api.Controllers
         [HttpPost]
         public async Task Upload(VideoDto dados)
         {
-            var uploader = new YTUploader.YTWrapper();
+            var uploader = new YTUploader.YTEnvio();
             await uploader.Upload(dados);
         }
     }

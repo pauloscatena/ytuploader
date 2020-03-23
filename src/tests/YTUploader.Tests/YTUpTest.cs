@@ -22,7 +22,7 @@ namespace YTUploader.Tests
 
             Console.WriteLine(dados);
 
-            var videoUploader = new YTWrapper();
+            var videoUploader = new YTEnvio();
             await videoUploader.Upload(dados);
             Console.WriteLine(videoUploader.Pronto);
 
